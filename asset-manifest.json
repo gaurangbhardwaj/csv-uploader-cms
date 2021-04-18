@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/csv-uploader-cms/static/js/main.c4231979.chunk.js",
+    "main.js.map": "/csv-uploader-cms/static/js/main.c4231979.chunk.js.map",
+    "runtime-main.js": "/csv-uploader-cms/static/js/runtime-main.3d6c2ed9.js",
+    "runtime-main.js.map": "/csv-uploader-cms/static/js/runtime-main.3d6c2ed9.js.map",
+    "static/js/2.f1235687.chunk.js": "/csv-uploader-cms/static/js/2.f1235687.chunk.js",
+    "static/js/2.f1235687.chunk.js.map": "/csv-uploader-cms/static/js/2.f1235687.chunk.js.map",
+    "static/js/3.4b88a1ed.chunk.js": "/csv-uploader-cms/static/js/3.4b88a1ed.chunk.js",
+    "static/js/3.4b88a1ed.chunk.js.map": "/csv-uploader-cms/static/js/3.4b88a1ed.chunk.js.map",
+    "index.html": "/csv-uploader-cms/index.html",
+    "static/js/2.f1235687.chunk.js.LICENSE.txt": "/csv-uploader-cms/static/js/2.f1235687.chunk.js.LICENSE.txt",
+    "static/media/left-arrow-active.75497405.svg": "/csv-uploader-cms/static/media/left-arrow-active.75497405.svg",
+    "static/media/left-arrow-inactive.be6a0b16.svg": "/csv-uploader-cms/static/media/left-arrow-inactive.be6a0b16.svg",
+    "static/media/right-arrow-active.574b15af.svg": "/csv-uploader-cms/static/media/right-arrow-active.574b15af.svg",
+    "static/media/right-arrow-inactive.48294948.svg": "/csv-uploader-cms/static/media/right-arrow-inactive.48294948.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d6c2ed9.js",
+    "static/js/2.f1235687.chunk.js",
+    "static/js/main.c4231979.chunk.js"
+  ]
+}
